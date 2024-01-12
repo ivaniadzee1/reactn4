@@ -1,0 +1,16 @@
+.dd{
+    width: 38px;
+    height: 36px;
+border-radius: 20px;
+background: rgba(38, 46, 56, 1);
+border: 2px solid rgba(38, 46, 56, 1) ;
+color: rgba(255, 255, 255, 1);
+margin-left: 20px;
+
+}
+.dd:hover{
+    background: rgba(124, 135, 152, 1);
+}
+.activeButton{
+    background: rgba(252, 118, 20, 1);
+}

@@ -1,0 +1,16 @@
+body {
+    background: rgba(19, 21, 24, 1);
+}
+.b{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a {
+  
+    width: 413px;
+    height: 360px;
+    background: radial-gradient(98.96% 98.96% at 50% 0%, #232A34 0%, #181E27 100%);
+    margin-top: 100px;
+    border-radius: 12px;
+}

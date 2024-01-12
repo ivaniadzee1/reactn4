@@ -1,0 +1,65 @@
+.o {
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 48%;
+    transform: translate(-40%, -48%);
+    width: 160px;
+    height: 26px;
+    background: rgba(38, 46, 56, 1);
+    border-radius: 12px;
+    padding-left: 11px;
+    padding-top: 3px;
+    color: rgba(252, 118, 20, 1);
+}
+
+.gio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kaxa {
+    width: 162px;
+    height: 108px;
+    margin-top: -555px;
+    margin-left: -26px;
+}
+
+
+
+.nino {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rati {
+    width: 143px;
+    height: 43px;
+    font-family: Overpass;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: left;
+    position: absolute;
+    top: 48%;
+    left: 49%;
+    transform: translate(-48%, -49%);
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.dato {
+    width: 340px;
+    height: 72px;
+    font-family: Overpass;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(150, 159, 173, 1);
+   margin-top: -80px;
+}

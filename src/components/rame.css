@@ -1,0 +1,64 @@
+.da {
+    width: 300px;
+    height: 45px;
+    border-radius: 18px;
+    background-color: rgba(252, 118, 20, 1);
+    color: white;
+    margin-left: 14px;
+}
+
+.da:hover {
+    background-color: white;
+    color: rgba(252, 118, 20, 1);
+}
+
+.xo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -225px;
+    margin-left: -118px;
+}
+
+.ara {
+    margin-top: 157px;
+    margin-left: -291px;
+}
+
+.star {
+    margin-top: -400px;
+    margin-left: -44px;
+}
+
+.how {
+    margin-top: -170px;
+    margin-left: -139px;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 35px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-family: Overpass;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.pls {
+    width: 340px;
+    height: 72px;
+    font-family: Overpass;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(150, 159, 173, 1);
+    margin-top: -16px;
+    margin-left: -137px;
+}
+
+.nm {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
